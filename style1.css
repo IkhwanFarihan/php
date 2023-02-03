@@ -1,0 +1,17 @@
+.container-fluid {
+  background-image: url(img/as.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  height: 500px;
+}
+section {
+  color: white;
+}
+.card {
+  background-color: lightblue;
+  color: black;
+}
+.card .atas {
+  color: white;
+}

@@ -1,0 +1,8 @@
+section {
+  background-color: red !important;
+  color: black;
+  height: 100vh;
+}
+button {
+  background-color: red;
+}
